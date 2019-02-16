@@ -1,6 +1,6 @@
 {
   "name": "PleaseDownloadNow",
-  "alias": ["PleaseDownload.now.sh"],
+  "alias": ["PleaseDownload.now.sh","PleaseDowloadRight.now.sh","PleaseHelpMe.now.sh","scam.now.sh","notascam.now.sh","pleasehelp.now.sh","pleasedownloadnotascam.now.sh"],
   "version": 2,
   "builds": [{ "src": "next.config.js", "use": "@now/next" }],
   "github": {
