@@ -1,0 +1,9 @@
+{
+  "name": "PleaseDownloadNow",
+  "alias": ["PleaseDownload.now.sh"],
+  "version": 2,
+  "builds": [{ "src": "next.config.js", "use": "@now/next" }],
+  "github": {
+    "silent": true
+  }
+}
